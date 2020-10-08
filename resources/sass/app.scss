@@ -1,1 +1,32 @@
-//
+@import'~bootstrap/scss/bootstrap';
+
+* {
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.posts_wrapper {
+
+  display: flex;
+  justify-content: center;
+
+  width: 100%;
+
+}
+
+footer {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 70px;
+  width: 100%;
+
+  color: white;
+  background-color: black;
+
+}
