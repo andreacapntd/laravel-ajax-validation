@@ -10911,12 +10911,17 @@ a.text-dark:focus {
   width: 100%;
 }
 
+form {
+  padding: 0 25px;
+}
+
 footer {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 70px;
   width: 100%;
+  margin-top: 30px;
   color: white;
   background-color: black;
 }

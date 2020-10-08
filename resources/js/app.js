@@ -19,6 +19,7 @@ function getData() {
                 + "<br>" + 'Like: ' + post['like'] + "</li>";
 
        target.append(html);
+       
       }
     },
     error: function(err) {
